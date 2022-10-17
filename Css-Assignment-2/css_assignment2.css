@@ -28,7 +28,7 @@
 
 /*  The Real Work Now */
 .background{
-    background-image: url(../images/section-bg.jpg );
+    background-image: url(../../images/section-bg.jpg );
     /* height: 900px; */
     background-repeat: no-repeat;
     background-size: cover;
@@ -167,7 +167,7 @@
 /*  The Expenses Table */
 
 .maintable{
-    background-image: url(../images/section-bg.jpg);
+    background-image: url(../../images/section-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
